@@ -2,7 +2,7 @@
 
 # nteract Data Explorer
 
-![](sampo.gif)
+![Data Explorer Examples](sampo.gif)
 
 [Read @emeek's post on designing the data explorer](https://blog.nteract.io/designing-the-nteract-data-explorer-f4476d53f897).
 
